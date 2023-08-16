@@ -9,7 +9,7 @@ Here's some stuff about me: <br/>
 - 📫 Email me at **achintj96244@gmail.com** <br/>
 - 🌍 passionate developer from India <br/>
 - 📚 Studying Mathematics <br/>
-- 🌱 Interested on blockchain/cryptography and machine learning <br/>
+- 🌱 Interested in blockchain/cryptography and machine learning <br/>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -25,6 +25,4 @@ Here's some stuff about me: <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=16achint&show_icons=true&locale=en&layout=compact" alt="16achint" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=16achint&show_icons=true&locale=en" alt="16achint" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=16achint&" alt="16achint" /></p>
+<p><img align="center" height=165px src="https://github-readme-streak-stats.herokuapp.com/?user=16achint&" alt="16achint" /></p>
