@@ -14,7 +14,7 @@ Here's some stuff about me: <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gucchiman11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="gucchiman11" height="30" width="30" /></a>
+<a href="https://twitter.com/gucchiman11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="gucchiman11" height="30" width="20" /></a>
 <a href="https://www.linkedin.com/in/achint-jain-a521b9213/?_l=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achint jain" height="30" width="40" /></a>
 <a href="https://instagram.com/j_achint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_achint" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/achintj3pfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="achintj3pfe" height="30" width="40" /></a>
