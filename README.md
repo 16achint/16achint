@@ -18,7 +18,8 @@ Here's some stuff about me: <br />
 - 📫 Email me at **achintj96244@gmail.com** <br />
 - 🌍 passionate developer from India <br />
 - 📚 Studying Mathematics <br />
-- 🌱 Interested in blockchain/cryptography and machine learning <br />
+- 🌱 Interested in blockchain/cryptography and machine learning
+- check out my portfolio: <a href="https://16achint.github.io/achintjain.dev.portfolio/"> <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
