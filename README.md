@@ -23,7 +23,7 @@ Here's some stuff about me: <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/gucchiman11" target="blank"
+  <a href="https://x.com/16achint" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"
